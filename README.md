@@ -21,7 +21,7 @@ output: 1500+
 2. python crawler.py clothing 2 -> It will give total number of results on particular page
 output: 40
 
-3. python crawler.py hyugjuy  -> I given keyword is not match then it will provide with message
+3. python crawler.py hyugjuy  -> If given keyword is not match then it will provide with message
 Output: No matches for given keyword
 
 hash.py
